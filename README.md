@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Bogdan
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+HARD+GOING+BACKENDER" alt="Typing SVG" /></a>
+<img src="https://github.com/MazurBogdan7/github-stats-terminal-style-MazurB/blob/master/github_stats.svg"/>
