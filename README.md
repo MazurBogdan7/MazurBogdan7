@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there, I'm Bogdan
 <a href="https://emoji.gg/emoji/4014-typingpeped"><img src="https://cdn3.emoji.gg/emojis/4014-typingpeped.gif" width="64px" height="64px" alt="TypingPepeD"></a></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+BEGINNER+HARD+BACKENDER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+BEGINNER+HARD+BACKENDER" alt="Typing SVG" /></a>
 <img src="https://github.com/MazurBogdan7/github-stats-terminal-style-MazurB/blob/master/github_stats.svg"/>
 
 <p>
