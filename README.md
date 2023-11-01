@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="icons8-c-sharp-logo.svg" width="50" height="50"/>
   <img src="icons8-c++.svg" width="50" height="50"/>
   <img src="python-svgrepo-com.svg" width="50" height="50"/>
-  <img src="java_icon.jpg" width="50" height="50"/>
+  <img src="Java.svg" width="50" height="50"/>
 </p>
 <h1 align="center">Contacts
 <img src="https://emoji.discadia.com/emojis/6479c4b9-ada7-436b-bd88-0df792a3b872.png" height="32"/></h1>
